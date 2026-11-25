@@ -1,6 +1,6 @@
 ---
 title: "ESTIMACIÓN DE PARAMETROS"
-subtitle: "FUNDAMENTOS, PROCEDIMIENTOS Y APLICACIONES EN EDUCACIÓN"
+subtitle: "FUNDAMENTOS, PROCEDIMIENTOS Y APLICACIONES"
 author: 
   - name: Dagoberto Salgado Horta
     affiliation: "Universidad del Tolima"
