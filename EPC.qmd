@@ -40,11 +40,11 @@ knitr:
 ---
 
 ::: {style="position:absolute; top:20px; right:10px;"}
-<img src="logo_ut.png" width="150"/>
+<img src="logo_ut.png" width="100"/>
 :::
 
 ::: {style="position:absolute; top:0px; left:10px;"}
-<img src="logo_lm.png" width="150"/>
+<img src="logo_lm.png" width="100"/>
 :::
 
 ```{=html}
